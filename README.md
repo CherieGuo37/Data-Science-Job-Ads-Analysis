@@ -1,3 +1,2 @@
 # Data-Analysis-Project #UseofSQL #PowerBI
-Data-Science-Job-Positngs-Analysis (Indeed USA)
-Analysis of Data Science Job Ads on Indeed from Nov 20 2022 to Fed 28 2023 in USA
+Data Analysis of Indeed job postings for data science from November 20, 2022, to February 2, 20198 2023 
